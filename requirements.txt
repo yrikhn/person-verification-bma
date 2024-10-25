@@ -2,3 +2,4 @@ streamlit
 face_recognition 
 dlib 
 opencv-python-headless
+cmake
